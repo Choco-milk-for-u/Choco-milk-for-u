@@ -1,4 +1,4 @@
-# Hi, i am MERN-STACK dev.
+# Hi, i am MERN-STACK (full-stack) dev.
 
 
 > React experience:
