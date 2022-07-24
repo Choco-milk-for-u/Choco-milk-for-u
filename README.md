@@ -1,5 +1,5 @@
-# Hi, i am MERN-STACK (full-stack) dev.
-
+# Hi, i am MERN-STACK (full-stack) dev. 
+# ❗️ One contribution = one completed project ❗️
 
 > React experience:
  ###### __8 month.__
