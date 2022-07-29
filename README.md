@@ -2,9 +2,9 @@
 # ❗️ One contribution = one completed project ❗️
 
 > React experience:
- ###### __8 month.__
+ ###### __10 month.__
 > Express experience:
- ###### 6 month.
+ ###### 8 month.
 
 > c++:
 ###### not currently work with this languages anymore. But my experience with it is 1,5 year.
