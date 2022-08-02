@@ -2,7 +2,7 @@
 # ❗️ One contribution = one completed project ❗️
 
 > React experience:
- ###### __10 month.__
+ ###### __1 year.__
 > Express experience:
  ###### 8 month.
 
