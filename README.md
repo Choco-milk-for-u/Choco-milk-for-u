@@ -1,6 +1,8 @@
 # Hi, i am MERN-STACK (full-stack) dev. 
 # ❗️ One contribution = one completed project ❗️
 
+> JavaScript
+###### 2 year
 > React experience:
  ###### __1 year.__
 > Express experience:
