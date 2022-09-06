@@ -1,5 +1,5 @@
 # Hi, i am MERN-STACK (full-stack) dev. 
-# ❗️ Currently are looking for job ❗️
+# ❗️ 19 ❗️
 
 > JavaScript
 ###### 2 year
