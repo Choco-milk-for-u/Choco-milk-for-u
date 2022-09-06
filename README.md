@@ -1,5 +1,5 @@
 # Hi, i am MERN-STACK (full-stack) dev. 
-# ❗️ One contribution = one completed project ❗️
+# ❗️ Currently are looking for job ❗️
 
 > JavaScript
 ###### 2 year
