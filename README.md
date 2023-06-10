@@ -4,17 +4,13 @@
 ### Here is my stack:
 #### _languages_:
 
-###### 2,2 years
 > JavaScript 
 ###### not currently work with this languages anymore. But my experience with it was 1,5 year.
 > c++
 
 #### _frameworks_:
-###### 2 year.
 > React experience
-###### 1,2 year.
 > Express experience
-###### 5 month.
 > Qt (for c++).
 #
 Nest.js, Next.js and Node.js:
