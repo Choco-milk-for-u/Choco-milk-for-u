@@ -1,6 +1,6 @@
 # Hi!
-## i am _MERN-STACK_ (full-stack) web developer. Currently searching for job (back-end position prefered). Also i am studing in Georgian Tehnology Universitet almost 2 years. I dont have gaps in activity, i just dont really use github (lately try to fix that). In my portfilio you can find all my done projects (pdf or linkedin).
-# ❗️ 20 y.o. ❗️ it is time for change.
+## 33 repositories. 4 open source npm pacakges. 11 public repositories.
+## About 5000 downloads. And 500 users in CheckAPI.app
 ## My next languages will be: Java and Python.
 [Linkedin](https://www.linkedin.com/in/aykhan-musayev-905935233/)
 
